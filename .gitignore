@@ -1,0 +1,12 @@
+*.tex.~txs0
+*.tex.~txs1
+*.tex.~txs2
+*.tex.~txs3
+*.tex.~txs4
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+*.log
+Thesis_Proposal_Outline.pdf

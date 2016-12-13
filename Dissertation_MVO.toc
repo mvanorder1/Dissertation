@@ -1,0 +1,19 @@
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background}{9}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Motivation}{9}{subsection.1.1.1}
+\contentsline {subsubsection}{Defining Surface Energy}{12}{subsubsection*.10}
+\contentsline {subsection}{\numberline {1.1.2}Preliminary investigations}{14}{subsection.1.1.2}
+\contentsline {subsubsection}{Thermal Grooving}{15}{subsubsection*.12}
+\contentsline {chapter}{\numberline {2}Chapter 2 Title}{18}{chapter.2}
+\contentsline {section}{\numberline {2.1}Metal Surface Energy Measurement}{18}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Phase I: Gallium Drop Method}{19}{subsection.2.1.1}
+\contentsline {subsubsection}{Contact Angle Goniometer (Verison 1)}{22}{subsubsection*.16}
+\contentsline {subsubsection}{Version 2}{24}{subsubsection*.18}
+\contentsline {chapter}{\numberline {3}Chapter 3 Title}{30}{chapter.3}
+\contentsline {subsection}{\numberline {3.0.2}Phase II: Two-liquid-phase contact angle method}{30}{subsection.3.0.2}
+\contentsline {subsubsection}{Experimental plan}{35}{subsubsection*.27}
+\contentsline {chapter}{\numberline {4}Conclusion}{39}{chapter.4}
+\contentsline {chapter}{\numberline {A}Derivation of Young's Equation}{40}{appendix.A}
+\contentsline {chapter}{\numberline {B}Derivation of Schultz's two-liquid-phase method}{42}{appendix.B}
+\contentsline {subsection}{\numberline {B.0.3}Measuring dispersive solid surface energy, $\gamma _{S}^{D}$}{42}{subsection.B.0.3}
+\contentsline {subsection}{\numberline {B.0.4}Measuring polar solid surface energy, $\gamma _{S}^{P}$}{43}{subsection.B.0.4}
