@@ -10,10 +10,10 @@
 \contentsline {subsubsection}{Contact Angle Goniometer (Verison 1)}{22}{subsubsection*.16}
 \contentsline {subsubsection}{Version 2}{24}{subsubsection*.18}
 \contentsline {chapter}{\numberline {3}Chapter 3 Title}{30}{chapter.3}
-\contentsline {subsection}{\numberline {3.0.2}Phase II: Two-liquid-phase contact angle method}{30}{subsection.3.0.2}
+\contentsline {subsection}{\numberline {3.0.1}Phase II: Two-liquid-phase contact angle method}{30}{subsection.3.0.1}
 \contentsline {subsubsection}{Experimental plan}{35}{subsubsection*.27}
-\contentsline {chapter}{\numberline {4}Conclusion}{39}{chapter.4}
-\contentsline {chapter}{\numberline {A}Derivation of Young's Equation}{40}{appendix.A}
-\contentsline {chapter}{\numberline {B}Derivation of Schultz's two-liquid-phase method}{42}{appendix.B}
-\contentsline {subsection}{\numberline {B.0.3}Measuring dispersive solid surface energy, $\gamma _{S}^{D}$}{42}{subsection.B.0.3}
-\contentsline {subsection}{\numberline {B.0.4}Measuring polar solid surface energy, $\gamma _{S}^{P}$}{43}{subsection.B.0.4}
+\contentsline {chapter}{\numberline {4}Conclusion}{38}{chapter.4}
+\contentsline {chapter}{\numberline {A}Derivation of Young's Equation}{39}{appendix.A}
+\contentsline {chapter}{\numberline {B}Derivation of Schultz's two-liquid-phase method}{41}{appendix.B}
+\contentsline {subsection}{\numberline {B.0.1}Measuring dispersive solid surface energy, $\gamma _{S}^{D}$}{41}{subsection.B.0.1}
+\contentsline {subsection}{\numberline {B.0.2}Measuring polar solid surface energy, $\gamma _{S}^{P}$}{42}{subsection.B.0.2}
