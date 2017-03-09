@@ -1,9 +1,9 @@
 \contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}
 \contentsline {section}{\numberline {1.1}Background}{9}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Motivation}{11}{subsection.1.1.1}
-\contentsline {subsubsection}{Defining Surface Energy}{14}{subsubsection*.10}
-\contentsline {subsection}{\numberline {1.1.2}Preliminary investigations}{16}{subsection.1.1.2}
-\contentsline {subsubsection}{Thermal Grooving}{17}{subsubsection*.12}
+\contentsline {subsection}{\numberline {1.1.1}Motivation}{12}{subsection.1.1.1}
+\contentsline {subsubsection}{Defining Surface Energy}{15}{subsubsection*.10}
+\contentsline {subsection}{\numberline {1.1.2}Preliminary investigations}{17}{subsection.1.1.2}
+\contentsline {subsubsection}{Thermal Grooving}{18}{subsubsection*.12}
 \contentsline {chapter}{\numberline {2}Chapter 2 Title}{20}{chapter.2}
 \contentsline {section}{\numberline {2.1}Metal Surface Energy Measurement}{20}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Phase I: Gallium Drop Method}{21}{subsection.2.1.1}
