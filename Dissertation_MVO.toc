@@ -30,4 +30,4 @@
 \contentsline {chapter}{\numberline {A}Derivation of Young's Equation}{55}{appendix.A}
 \contentsline {chapter}{\numberline {B}Derivation of Schultz's two-liquid-phase method}{57}{appendix.B}
 \contentsline {subsection}{\numberline {B.0.1}Measuring dispersive solid surface energy, $\gamma _{S}^{D}$}{57}{subsection.B.0.1}
-\contentsline {subsection}{\numberline {B.0.2}Measuring polar solid surface energy, $\gamma _{S}^{P}$}{58}{subsection.B.0.2}
+\contentsline {subsection}{\numberline {B.0.2}Measuring polar solid surface energy, $\gamma _{S}^{P}$}{59}{subsection.B.0.2}

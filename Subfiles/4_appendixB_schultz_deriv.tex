@@ -33,20 +33,40 @@ $L_{1}$ will signify water, $L_{2}$ as \nalk[s], and $I_{SL_{2}}^{P}$ may be con
 	\gamma_{W}-\gamma_{H}+\gamma_{WH}\cos\theta_{W} = 2(\gamma_{S}^{D})^{1/2}[(\gamma_{W}^{D})^{1/2}-(\gamma_{H}^{D})^{1/2}] + I_{SW}^{P} 
 \end{equation} 
 
+In order to calculate the dispersive component of \gamSV for a solid surface, the water \ca must be measured on a solid immersed in \nalk[s]. By interpreting Equation \ref{schultz2} as a classic linear function, $y = mx + b$:
+
+\[
+\underbracket{\gamma_{W}-\gamma_{H}+\gamma_{WH}\cos\theta_{W}}_{\text{\normalsize{$y$}}} =
+\underbracket{2(\gamma_{S}^{D})^{1/2}}_{\text{\normalsize{$m$}}}  
+\underbracket{[(\gamma_{W}^{D})^{1/2}-(\gamma_{H}^{D})^{1/2}] }_{\text{\normalsize{$x$}}} + 
+\underbracket{I_{SW}^{P}}_{\text{\normalsize{$b$}}} 
+\] 
+
 \subsection{Measuring polar solid surface energy, $\gamma_{S}^{P}$}
 
-Beginning with Equation \ref{schultz1} in the previous section and solving for $ I_{SL_{2}}^{P} $, with liquid $L_1$ as water (subscript W):
+Beginning with Equation \ref{schultz1} in the previous section and solving for $ I_{SL_{2}}^{P} $, with liquid $L_1$ as water (subscript $ W $):
 
 \begin{equation}
-	I_{SL_2}^{P} = \gamma_{SL_2}-\gamma_{WL_2}\cos\theta_{SW}-2(\gamma_{S}^{D}\gamma_{L_2}^{D})^{1/2} + C
+	I_{L_2}^{P} = \gamma_{SL_2}-\gamma_{WL_2}\cos\theta_{SW}-2(\gamma_{S}^{D}\gamma_{L_2}^{D})^{1/2} + C
 \end{equation}
 \begin{equation}
 	C = I_{SW}^{P} + 2(\gamma_{S}^{D}\gamma_{W}^{D})^{1/2} - \gamma_W
 \end{equation}
 
-In the above two equations, the values of $ \gamma_W$, $ \gamma_{W}^{D} $, $ \gamma_{S}^{D} $, and $I_{SW}^{P}$ are available experimentally from the previous section. Therefore, measurements of $ \gamma_{L_2}$, $ \gamma_{L_2}^{D} $, $\theta_{SW}$, and $ \gamma_{L_2}^{D} $ lead to a calculation of the polar interaction $I_{SW}^{P}$. 
+In the above two equations, the values of $ \gamma_W$, $ \gamma_{W}^{D} $, $ \gamma_{S}^{D} $, and $I_{SW}^{P}$ are available experimentally from the previous section. Therefore, measurements of $ \gamma_{L_2}$, $ \gamma_{L_2}^{D} $, $\theta_{SW}$, and $ \gamma_{L_2}^{D} $ lead to a calculation of the polar interaction $I_{SL_{2}}^{P}$. 
 
+For calculating the polar interaction between a solid and a liquid from the polar term of their surface free energy, a geometric-mean relation is used, shown in Equation \ref{polarinteractionline}. 
+\begin{equation} \label{polarinteractionline}
+	I_{SL_{2}}^{P} = 2(\gamma_{S}^{P}\gamma_{L_{2}}^{P})^{1/2}
+\end{equation}
 
+We find $ \gamma_{S}^{P} $ by plotting values of $ I_{SL_{2}}^{P} $ vs. $\sqrt{ \gamma_{L_{2}}^{P} }$ for a set of chloroalkane and nitroalkane bulk liquids with a polar component of surface tension.
+
+\[
+\underbracket{ I_{SL_{2}}^{P}}_{\textbf{\normalsize{$y$}} } =
+\underbracket{ 2\sqrt{\gamma_{S}^{P} }} _{\textbf{\normalsize{$m$}} }
+\underbracket{ \sqrt{\gamma_{L_{2}}^{P} }} _{\textbf{\normalsize{$x$}}  }
+\]
 
 
 
