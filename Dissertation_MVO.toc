@@ -24,8 +24,12 @@
 \contentsline {section}{\numberline {2.4}Conclusions and next steps}{42}{section.2.4}
 \contentsline {chapter}{\numberline {3}Patterned Two-Liquid-Phase Method}{44}{chapter.3}
 \contentsline {section}{\numberline {3.1}Two-liquid-phase contact angle method}{45}{section.3.1}
-\contentsline {chapter}{\numberline {4}Conclusion}{50}{chapter.4}
-\contentsline {chapter}{\numberline {A}Derivation of Young's Equation}{51}{appendix.A}
-\contentsline {chapter}{\numberline {B}Derivation of Schultz's two-liquid-phase method}{53}{appendix.B}
-\contentsline {subsection}{\numberline {B.0.1}Measuring dispersive solid surface energy, $\gamma _{S}^{D}$}{53}{subsection.B.0.1}
-\contentsline {subsection}{\numberline {B.0.2}Measuring polar solid surface energy, $\gamma _{S}^{P}$}{55}{subsection.B.0.2}
+\contentsline {subsection}{\numberline {3.1.1}Preliminary investigation of Cleaved Mica}{47}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Beyond flat surface Schultz Method}{48}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Modeling surface geometry for Cassie-Baxter favoribility}{50}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Predicted errors in experiment}{50}{subsection.3.1.4}
+\contentsline {chapter}{\numberline {4}Conclusion}{52}{chapter.4}
+\contentsline {chapter}{\numberline {A}Derivation of Young's Equation}{53}{appendix.A}
+\contentsline {chapter}{\numberline {B}Derivation of Schultz's two-liquid-phase method}{55}{appendix.B}
+\contentsline {subsection}{\numberline {B.0.1}Measuring dispersive solid surface energy, $\gamma _{S}^{D}$}{55}{subsection.B.0.1}
+\contentsline {subsection}{\numberline {B.0.2}Measuring polar solid surface energy, $\gamma _{S}^{P}$}{57}{subsection.B.0.2}
